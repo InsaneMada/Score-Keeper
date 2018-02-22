@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Score Keeper</string>
+
+    // Team name
+    <string name="team_a">Team A</string>
+    <string name="team_b">Team B</string>
+
+    // Test score
+    <string name="text_score">0</string>
+
+    // Text font
+    <string name="text_font">cursive</string>
+
+    // Button text
+    <string name="button_goal">Goal</string>
+    <string name="button_foul">Foul</string>
+    <string name="button_penalty">Penalty</string>
+    <string name="reset_button">Reset</string>
+
+    // Dimensions
+    <dimen name="team_size">20sp</dimen>
+    <dimen name="score_size">50sp</dimen>
+    <dimen name="Linear_width">0dp</dimen>
+    <dimen name="Linear_padding">24dp</dimen>
+    <dimen name="text_margin">10dp</dimen>
+    <dimen name="button_margin">2dp</dimen>
+    <dimen name="reset_button_margin">20dp</dimen>
+    <dimen name="view_width">1dp</dimen>
+    <dimen name="view_margin">30dp</dimen>
+</resources>
